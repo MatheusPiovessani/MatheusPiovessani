@@ -26,29 +26,7 @@
 
 ---
 
-## 📌 Projetos em destaque
-
-- 🤖 Automação de WhatsApp com API + n8n  
-- 📊 Integração de dados para análise em Power BI  
-- 🔁 Bots para respostas automáticas  
-
----
-
-## 📈 Atualmente
-
-- Estudando Java e boas práticas de backend  
-- Aprendendo Spring Boot  
-- Evoluindo em projetos próprios  
-
----
-
-## 🎯 Objetivo
-
-Busco minha primeira oportunidade como estagiário em desenvolvimento backend.
-
----
-
 ## 📫 Contato
 
-- LinkedIn: (coloque seu link aqui)
-- Email: (coloque seu email aqui)
+- LinkedIn: [Linkedin)](https://www.linkedin.com/in/matheuspiovessani/?skipRedirect=true)
+- Email: [Email](matheuspiovessani6@gmail.com)
