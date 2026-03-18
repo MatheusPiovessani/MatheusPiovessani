@@ -6,17 +6,6 @@
 
 ---
 
-## 🛠️ Tecnologias
-
-- Java
-- Python
-- SQL
-- Git
-- n8n
-- APIs REST
-
----
-
 ## ⚡ O que eu faço
 
 - Desenvolvimento backend  
@@ -28,5 +17,5 @@
 
 ## 📫 Contato
 
-- LinkedIn: [Linkedin)](https://www.linkedin.com/in/matheuspiovessani/?skipRedirect=true)
-- Email: [Email](matheuspiovessani6@gmail.com)
+- LinkedIn: [Linkedin](https://www.linkedin.com/in/matheuspiovessani/?skipRedirect=true)
+- Email: matheuspiovessani6@gmail.com
